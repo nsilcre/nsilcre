@@ -1,4 +1,17 @@
-<h1><center ✨Nicolás Silva✨></center></h1
+<head>
+<style>
+  body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+
+    }
+  #titulo {
+     text-align: center;
+  }
+</style>
+</head>
+<body>
+<h1 id="titulo">✨Nicolás Silva✨</h1
 
 <!--
 **nsilcre/nsilcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
