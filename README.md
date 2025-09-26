@@ -1,18 +1,5 @@
-<head>
-<style>
-  body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-
-    }
-  #titulo {
-     text-align: center;
-  }
-</style>
-</head>
-<body>
-<h1 id="titulo">✨Nicolás Silva✨</h1
-
+<h1 align="center">✨ Nicolás Silva ✨</h1>
+<p align="center">Estudiante 2º DAW | Mi Repositorio | PHP</p>
 <!--
 **nsilcre/nsilcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
