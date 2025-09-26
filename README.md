@@ -1,5 +1,5 @@
 <h1 align="center">✨ Nicolás Silva ✨</h1>
-<p align="center">Estudiante 2º DAW | Mi Repositorio | PHP</p>
+<p align="center"><b>Estudiante 2º DAW</b> | <b>Mi Repositorio</b> | <b>PHP</b></p>
 <!--
 **nsilcre/nsilcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
