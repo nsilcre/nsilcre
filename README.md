@@ -3,7 +3,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%C2%A1+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
 
   # ✨ Nicolás Silva ✨ 
-  
+
+  ## 👨‍💻 About Me
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      - 🎓 I'm a web application development student.** <br>
+      - 🌱 Currently learning **JavaScript, Python, PHP and SQL** <br>
+      - 🚀 Interested in **Web Development, Databases, and Cloud** <br>
+      - 🥊 My hobbies: **sports and nutrition.**
+    </td>
+    <td>
+      <img src="descarga.gif" alt="GIF" height="150px">
+    </td>
+  </tr>
+</table>
 <p><strong>Estudiante 2º DAW</strong> | <strong>Tecnico en SMR</strong> <!--| <strong></strong></p>--> 
   
   ## Tecnologías que manejo 
