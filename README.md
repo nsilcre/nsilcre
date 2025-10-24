@@ -12,7 +12,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
   
-  ### **Backend:** 
+  ### Backend:
   
   [![My Skills](https://skillicons.dev/icons?i=java,py,php)](https://skillicons.dev) 
   
