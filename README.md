@@ -13,9 +13,6 @@
       - 🚀 Interested in **Web Development, Databases, and Cloud** <br>
       - 🥊 My hobbies: **sports and nutrition.**
     </td>
-    <td>
-      <img src="descarga.gif" alt="GIF" height="150px">
-    </td>
   </tr>
 </table>
 <p><strong>Estudiante 2º DAW</strong> | <strong>Tecnico en SMR</strong> <!--| <strong></strong></p>--> 
