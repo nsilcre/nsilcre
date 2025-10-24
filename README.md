@@ -1,17 +1,15 @@
 <h1 align="center">✨ Nicolás Silva ✨</h1>
 <p align="center"><b>Estudiante 2º DAW</b> | <b>Mi Repositorio</b> | <b>PHP</b></p>
-<!--
-**nsilcre/nsilcre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tecnologías que manejo
+**Frontend:**  
+`HTML` `CSS` `JavaScript`
 
-Here are some ideas to get you started:
+**Backend:**  
+`JAVA` `PYTHON` `PHP` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bases de datos:**  
+`MySQL`  
+
+**Herramientas:**  
+`Git` `GitHub` `VS Code` `XAMPP` `Postman`
 </body>
