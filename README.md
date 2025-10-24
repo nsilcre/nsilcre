@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=¡+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
+![Banner](https://i.imgur.com/XXXXXXX.gif)
 
 <h1 align="center">✨ Nicolás Silva ✨</h1>
 <p align="center"><b>Estudiante 2º DAW</b> | <b>Mi Repositorio</b> | <b>PHP</b></p>
