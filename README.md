@@ -5,7 +5,7 @@
 # ✨ Nicolás Silva ✨
 <p><strong>Estudiante 2º DAW</strong> | <strong>Tecnico en SMR</strong> <!--| <strong></strong></p>-->
 
-
+</div>
 
 ## Tecnologías que manejo
 
@@ -24,4 +24,4 @@
 **Heramientas:**
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev)
 
-</div>
+
