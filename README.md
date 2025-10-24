@@ -12,14 +12,13 @@
 **Frontend:**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-`HTML` `CSS` `JavaScript`
-
 **Backend:**  
-`JAVA` `PYTHON` `PHP` 
+[![My Skills](https://skillicons.dev/icons?i=java,py,php)](https://skillicons.dev)
 
 **Bases de datos:**  
-`MySQL`  
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 **Herramientas:**  
+[![My Skills](https://skillicons.dev/icons?i=github,visualstudio)](https://skillicons.dev)
 `Git` `GitHub` `VS Code` `XAMPP` `GIMP`
 </body>
