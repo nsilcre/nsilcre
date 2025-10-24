@@ -1,8 +1,10 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=¡+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%C2%A1+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
 
 <h1>✨ Nicolás Silva ✨</h1>
-<p><b>Estudiante 2º DAW</b> | <b>Mi Repositorio</b> | <b>PHP</b></p>
+<p><strong>Estudiante 2º DAW</strong> | <strong>Mi Repositorio</strong> | <strong>PHP</strong></p>
+
 </div>
 
 ## Tecnologías que manejo
