@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('[C:\Users\2DAW\Downloads\0bc8604f7929614ec441232324b85624.webp](https://imgs.search.brave.com/_r9Ki-pGacFWRasoh18NVg80rAoQRyrf6KfwOHs0zyU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBiL2M4/LzYwLzBiYzg2MDRm/NzkyOTYxNGVjNDQx/MjMyMzI0Yjg1NjI0/LmpwZw)'); background-size: cover; padding: 50px;"> 
+<div align="center" style="background-image: url('[https://www.pinterest.com/ideas/website-background-design/929731590874/](https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074)'); background-size: cover; padding: 50px;"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%C2%A1+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
 
