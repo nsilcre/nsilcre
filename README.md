@@ -10,6 +10,8 @@
 ## Tecnologías que manejo
 
 **Frontend:**  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 `HTML` `CSS` `JavaScript`
 
 **Backend:**  
