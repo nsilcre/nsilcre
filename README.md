@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('C:\Users\2DAW\Downloads\0bc8604f7929614ec441232324b85624.webp'); background-size: cover; padding: 50px;"> 
+<div align="center" style="background-image: url('[C:\Users\2DAW\Downloads\0bc8604f7929614ec441232324b85624.webp](https://imgs.search.brave.com/_r9Ki-pGacFWRasoh18NVg80rAoQRyrf6KfwOHs0zyU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBiL2M4/LzYwLzBiYzg2MDRm/NzkyOTYxNGVjNDQx/MjMyMzI0Yjg1NjI0/LmpwZw)'); background-size: cover; padding: 50px;"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%C2%A1+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,docker,eclipse,wordpress)](https://skillicons.dev) 
   
-  ### +OS:
+  ### OS:
   
   [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev) 
   
