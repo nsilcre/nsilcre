@@ -5,13 +5,15 @@
   # ✨ Nicolás Silva ✨ 
 
   ## 👨‍💻 About Me
-<table>
+<table align="center" style="border-collapse: collapse; width: 70%; background-color: #f5f5f5; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
   <tr>
-    <td style="vertical-align: top;">
-      - 🎓 I'm a web application development student.** <br>
-      - 🌱 Currently learning **JavaScript, Python, PHP and SQL** <br>
-      - 🚀 Interested in **Web Development, Databases, and Cloud** <br>
-      - 🥊 My hobbies: **sports and nutrition.**
+    <td style="padding: 15px; vertical-align: top; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; color: #333;">
+      <ul style="list-style: none; padding-left: 0;">
+        <li>🎓 <strong>I'm a web application development student.</strong></li>
+        <li>🌱 <strong>Currently learning JavaScript, Python, PHP and SQL.</strong></li>
+        <li>🚀 <strong>Interested in Web Development, Databases, and Cloud.</strong></li>
+        <li>🥊 <strong>My hobbies: sports and nutrition.</strong></li>
+      </ul>
     </td>
   </tr>
 </table>
