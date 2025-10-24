@@ -1,5 +1,7 @@
-<div align="center" style="background-image: url('https://github.com/nsilcre/nsilcre/blob/main/0bc8604f7929614ec441232324b85624.png?raw=true'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 50px;">
-
+<div align="center">
+<p align="center">
+  <img src="https://github.com/nsilcre/nsilcre/blob/main/0bc8604f7929614ec441232324b85624.png?raw=true" width="800">
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%C2%A1+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
 
   # ✨ Nicolás Silva ✨ 
