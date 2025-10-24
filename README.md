@@ -18,6 +18,9 @@
 **Bases de datos:**  
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-**Herramientas:**  
-[![My Skills](https://skillicons.dev/icons?i=github,visualstudio)](https://skillicons.dev)
+**Heramientas:**  
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,docker,eclipse,wordpress)](https://skillicons.dev)
+
+**OS:**
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev)
 </div>
