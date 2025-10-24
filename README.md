@@ -5,23 +5,21 @@
 # ✨ Nicolás Silva ✨
 <p><strong>Estudiante 2º DAW</strong> | <strong>Tecnico en SMR</strong> <!--| <strong></strong></p>-->
 
-</div>
+<h2>Tecnologías que manejo</h2>
 
-## Tecnologías que manejo
-
-**Frontend:**  
+<p><strong>Frontend:</strong></p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-**Backend:**  
+<p><strong>Backend:</strong></p>
 [![My Skills](https://skillicons.dev/icons?i=java,py,php)](https://skillicons.dev)
 
-**Bases de datos:**  
+<p><strong>Bases de datos:</strong></p>
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-**Heramientas:**  
+<p><strong>Herramientas de desarrollo:</strong></p>
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,docker,eclipse,wordpress)](https://skillicons.dev)
 
-**Heramientas:**
+<p><strong>Sistemas Operativos:</strong></p>
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev)
 
-
+</div>
