@@ -9,18 +9,23 @@
   ## Tecnologías que manejo 
   
   **Frontend:** 
+  
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
   
   **Backend:** 
+  
   [![My Skills](https://skillicons.dev/icons?i=java,py,php)](https://skillicons.dev) 
   
   **Bases de datos:** 
+  
   [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
   
   **Heramientas:** 
+  
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,docker,eclipse,wordpress)](https://skillicons.dev) 
   
   **Heramientas:** 
+  
   [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev) 
   
   </div>
