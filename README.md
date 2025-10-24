@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%C2%A1+Bienvenidos+a+mi+repositorio+!)](https://git.io/typing-svg)
 
+<!-- Imagen de fondo -->
+<p align="center">
+  <img src="https://www.xtrafondos.com/wallpapers/casa-kame-de-dragon-ball-3963.jpg" width="1000" alt="Background" />
+</p>
+
   # ✨ Nicolás Silva ✨ 
   
 <p><strong>Estudiante 2º DAW</strong> | <strong>Tecnico en SMR</strong> <!--| <strong></strong></p>--> 
