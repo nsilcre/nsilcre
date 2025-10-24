@@ -24,7 +24,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,docker,eclipse,wordpress)](https://skillicons.dev) 
   
-  **Heramientas:** 
+  **OS:** 
   
   [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows)](https://skillicons.dev) 
   
