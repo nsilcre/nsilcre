@@ -1,60 +1,80 @@
----
+# Nicolás Silva — Full‑Stack en formación
 
-## 👋 Resumen
+> Construyo software web con mentalidad de producto: simple por fuera, sólido por dentro.
 
-Soy desarrollador web en formación, con enfoque Full‑Stack y ganas de aprender y crear. Este README resume mis habilidades, proyectos y cómo contactarme.
+## Perfil (en una línea)
+Estudiante de **2º DAW** y **Técnico SMR**, enfocado en **backend + buenas prácticas**, con hambre de aprender y convertir ideas en aplicaciones reales.
 
----
+## Manifiesto breve
+- **Claridad** antes que complejidad: código legible, nombres honestos, estructura limpia.
+- **Iteración rápida**: prototipo → feedback → mejora → despliegue.
+- **Calidad que se nota**: tests cuando aportan, documentación cuando ahorra tiempo, automatización cuando reduce errores.
+- **Energía sostenible**: deporte y nutrición como rutina para mantener foco (y no quemarme).
 
-## 👤 Sobre mí
+## Lo que me gusta construir
+- Aplicaciones web con **auth**, roles y paneles de administración.
+- **APIs REST** bien diseñadas (recursos, validación, errores consistentes).
+- CRUDs con buena UX, y proyectos “pequeños” pero **bien terminados**.
 
-- Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) y Técnico en Sistemas Microinformáticos y Redes (SMR).
-- Me encanta transformar ideas en aplicaciones útiles y mantener código claro y mantenible.
-- Fuera del código: deporte y nutrición como fuente de energía y foco.
+## Stack (lo que uso / estoy reforzando)
+**Frontend**
+- HTML, CSS, JavaScript
+- Bootstrap
+- React (bases y en progreso)
 
----
+**Backend**
+- PHP (Laravel)
+- Python (Django / Flask)
+- Node.js
 
-## 🛠️ Tecnologías y herramientas
+**Datos**
+- MySQL, PostgreSQL, SQLite
 
-- Frontend: HTML, CSS, JavaScript, Bootstrap, conocimientos básicos de React
-- Backend: PHP (Laravel), Python (Django/Flask), Node.js
-- Bases de datos: MySQL, PostgreSQL, SQLite
-- DevOps: Git, Docker, nociones de despliegue en la nube (AWS/Azure)
+**Dev & Deploy**
+- Git, Docker
+- Nociones de cloud (AWS / Azure)
 
----
+## Proyectos destacados (selección)
+- **CRUD‑Breeze**
+  - Qué es: práctica con **Laravel Breeze** para gestión de vehículos y usuarios.
+  - Enfoque: autenticación, validación, estructura del proyecto.
+  - Stack: Laravel + MySQL.
 
-## 🚀 Proyectos destacados
+- **MiPortfolio**
+  - Qué es: web personal para mostrar proyectos, CV y enlaces.
+  - Enfoque: presentación limpia, rendimiento y responsive.
+  - Stack: HTML + CSS + JavaScript.
 
-- **CRUD-Breeze** — Practica con Laravel Breeze para gestionar vehiculos y usuarios.
-  - Tecnologías: PHP, Laravel, MySQL.
-- **MiPortfolio** — Página personal para mostrar proyectos y CV.
-  - Tecnologías: HTML, CSS, JavaScript.
-- **App-Notas** — API REST para gestionar notas, ejercicio con Node.js y SQLite.
+- **App‑Notas**
+  - Qué es: API REST para gestionar notas.
+  - Enfoque: endpoints consistentes, persistencia ligera, buenas respuestas HTTP.
+  - Stack: Node.js + SQLite.
 
-Estos proyectos se actualizarán con enlaces, capturas y guía de ejecución. Si quieres que suba el código con instrucciones, lo preparo.
+> Próximo paso: ir añadiendo a cada repo **README con guía de ejecución**, capturas y decisiones técnicas (por qué está hecho así).
 
----
+## Radar de aprendizaje (Now / Next)
+**Now**
+- Backend: arquitectura, patrones, validación y manejo de errores.
+- Calidad: tests, CI/CD y revisión de código.
 
-## 🎯 Objetivos profesionales
+**Next**
+- Despliegues con Docker (compose), entornos y automatización.
+- Mejorar React (componentización, estado, consumo de APIs).
 
-- Profundizar en backend, arquitectura y buenas prácticas (tests, CI/CD).
-- Participar en proyectos colaborativos reales.
-- Mejorar despliegue en la nube y automatización con Docker.
+## Colaboración
+Me interesa colaborar en:
+- Proyectos para aprender en equipo (issues bien definidos, code reviews).
+- Prácticas / primer rol junior (sobre todo backend o full‑stack).
 
----
+Si tienes un repo y quieres que aporte, dime:
+1) objetivo del proyecto, 2) stack, 3) tareas concretas, 4) deadline (si hay).
 
-## 📫 Contacto
-
+## Contacto
 - GitHub: https://github.com/nicolas-silva
 - Email: nsilvacremona@gmail.com
-- LinkedIn: (añade aquí tu perfil)
+- LinkedIn: (pon aquí tu URL)
 
 ---
 
-## ¿Quieres colaborar?
+**Nota rápida:** si me dices tu objetivo (buscar prácticas, empleo junior, o mostrarte como freelance), puedo adaptar este README a ese enfoque y añadir badges, métricas y un “portfolio section” más potente.
 
-Si buscas soporte en un proyecto, prácticas o colaboración, escríbeme por email o abre un issue en alguno de mis repos. Me adapto rápido y aprendo con feedback.
-
----
-
-> Nota: ¿Quieres que añada badges, instrucciones de ejecución por proyecto o un CV descargable? Indícame qué prefieres y lo añado.
