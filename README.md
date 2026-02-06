@@ -39,7 +39,7 @@ Aquí tienes un vistazo a las herramientas y tecnologías que manejo y con las q
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git)](https://skillicons.dev)
 
 ### 🛠️ Herramientas y Sistemas Operativos
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,wordpress,linux,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,wordpress,linux,ubuntu,windows,powershell)](https://skillicons.dev)
 
 ---
 
