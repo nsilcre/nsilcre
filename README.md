@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
 
 # ¡Hola! Soy Nicolás Silva ✨
@@ -110,4 +108,3 @@ Aquí algunos de mis proyectos más recientes. ¡Échales un vistazo!
   <p>¡Gracias por visitar mi perfil! 🚀</p>
   <img src="https://raw.githubusercontent.com/marcos-oliveira/marcos-oliveira/main/assets/wave.svg" alt="Wave Footer">
 </div>
-```
