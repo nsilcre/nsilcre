@@ -30,7 +30,7 @@ Aquí tienes un vistazo a las herramientas y tecnologías que manejo y con las q
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=py,php,java,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,java,nodejs,django,laravel)](https://skillicons.dev)
 
 ### 🗄️ Bases de Datos
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
