@@ -30,13 +30,13 @@ Aquí tienes un vistazo a las herramientas y tecnologías que manejo y con las q
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=py,php,java,nodejs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,java,nodejs)](https://skillicons.dev)
 
 ### 🗄️ Bases de Datos
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git)](https://skillicons.dev)
 
 ### 🛠️ Herramientas y Sistemas Operativos
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,wordpress,linux,ubuntu,windows)](https://skillicons.dev)
