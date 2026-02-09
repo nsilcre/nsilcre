@@ -115,13 +115,12 @@ flowchart LR
 ---
 
 ## 🤝 Colaboración
-Si tienes un repo y quieres que aporte, dime:
-1) objetivo del proyecto, 2) stack, 3) tareas concretas, 4) deadline (si hay).
+
 
 ## 📫 Contacto
 - GitHub: https://github.com/nicolas-silva
 - Email: nsilvacremona@gmail.com
-- LinkedIn: **(pega tu URL y listo)**
+- LinkedIn: 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0b5fff,100:0f172a&height=120&section=footer" alt="footer" />
