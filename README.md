@@ -229,7 +229,4 @@ const myPrinciples = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" alt="footer"/>
   
   ### ⭐ Si te gusta mi trabajo, no dudes en dar una estrella a mis repositorios
-  
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
-  
 </div>
