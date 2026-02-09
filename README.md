@@ -52,7 +52,6 @@ TIP: Para usar esto como *Profile README* en GitHub:
 ---
 
 ## 🚀 Proyectos (selección)
-> Si quieres, los convierto en “proyectos top” con: demo, capturas, guía de ejecución, variables de entorno y decisiones técnicas.
 
 ### CRUD‑Breeze
 - **Qué es:** práctica con Laravel Breeze para gestionar **vehículos** y **usuarios**.
